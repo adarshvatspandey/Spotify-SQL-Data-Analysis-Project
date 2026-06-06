@@ -3,6 +3,7 @@
 ## Overview
 
 This project explores and analyzes Spotify music data using PostgreSQL. The goal is to answer business-oriented questions using SQL and demonstrate skills in data analysis, aggregation, window functions, CTEs, and data exploration.
+
 ![image](https://github.com/adarshvatspandey/Spotify-SQL-Data-Analysis-Project/blob/main/logo.jpg?raw=true
 )
 ## Dataset Information
@@ -71,10 +72,3 @@ The dataset contains information about Spotify tracks, including:
 * Using CTEs for advanced analysis.
 * Performing business-focused data exploration.
 
-## Author
-
-Adarsh Pandey
-
-Electronics & Communication Engineering Student
-
-Aspiring Data Analyst
